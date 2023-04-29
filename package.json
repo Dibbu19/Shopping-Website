@@ -15,6 +15,7 @@
   "version": "1.0.0",
   "description": "Shopping Website",
   "main": "app.js",
+  "git-repository": "https://github.com/Dibbu19/Shopping-Website.git",
   "author": "Divyansh Chauhan",
   "license": "ISC"
 }
